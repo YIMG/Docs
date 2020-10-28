@@ -1,6 +1,6 @@
 # BugamesGit使用规范
 
-## 一丶 使用git Commit
+## 一丶 使用git Commit提交
 
 **推荐使用VS图形化界面**
 
